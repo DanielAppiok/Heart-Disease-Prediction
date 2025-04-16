@@ -1,6 +1,6 @@
 # Heart-Disease-Prediction
 
- Overview
+### Overview
 This project is focused on building a predictive machine learning model to classify whether a person is likely to have heart disease based on various medical attributes. The project applies a professional data science pipeline and emphasizes clean, explainable, and reproducible work.
 
  Objectives
