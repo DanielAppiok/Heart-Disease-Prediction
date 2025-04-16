@@ -13,3 +13,20 @@ Compare multiple machine learning models and tune them for optimal performance.
 Deploy a trained model that can generalize well on unseen patient data.
 
 Emphasize prevention of data leakage throughout the workflow.
+
+### Model Evaluation
+
+Evaluated models using accuracy, precision, recall, F1-score, and ROC-AUC.
+
+Plotted confusion matrices and ROC curves.
+
+Best performing model: Random Forest (AUC = 0.91)
+
+### Results
+Final accuracy: ~83%
+
+Top features: 'oldpeak', 'cp', 'sex', 'exang',' thalch'
+
+ROC-AUC: 0.91 (Random Forest)
+
+
